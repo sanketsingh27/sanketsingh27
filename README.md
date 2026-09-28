@@ -1,18 +1,80 @@
-# 💫 About Me:
-# hey, i'm sanket 👋<br><br>i'm a software engineer with 6+ years of experience building software across **financial products, e-commerce, and developer tools**.<br><br>these days i'm spending a lot of time experimenting with **ai, agents, and products of my own**.<br><br>### 🚧 currently working on<br><br>- 🤖 building ai-powered developer tools and autonomous coding agents<br>- 🧠 building a task management product focused on making planning and execution easier<br>- 🧪 experimenting with llms, agent workflows, evals, and ai-assisted development<br>- 📱 occasionally getting myself into ios development<br>- 💡 turning random product ideas into things that actually run<br><br>### 💼 things i've worked on<br><br>most of my professional experience has been around:<br><br>- 💰 **financial products** — trading/market-related software, financial workflows, and enterprise applications<br>- 🛒 **e-commerce** — platforms and products dealing with catalogues, commerce workflows, and large-scale business operations<br>- 🌐 **full-stack web applications** — from frontend experiences to backend systems and APIs<br>- ⚙️ **developer tooling** — automation, testing, ci/cd, and tools that make engineers faster<br><br>### 🌱 currently learning<br><br>- python & fastapi<br>- ai agents & agentic workflows<br>- llm evaluations<br>- building reliable ai-powered products<br>- ios development<br><br>### 🔍 looking for help with<br><br>- building agents that can actually ship software reliably<br>- evaluating ai systems beyond “it seems to work”<br>- turning side projects into products people genuinely want<br><br>### 💬 ask me about<br><br>`typescript` · `react` · `next.js` · `node.js` · `postgres` · `redis` · `ai agents` · `financial software` · `e-commerce` · `building products`<br><br>### ⚡ fun fact<br><br>i've spent enough time building software to know that the hardest part usually isn't writing the code.<br><br>it's deciding **what the hell should be built in the first place.**<br><br>---<br><br>> building things, learning things, occasionally overengineering things.
+<!-- ══════════════ HEADER ══════════════ -->
+<img
+src="https://capsule-render.vercel.app/api?type=slice&color=0:8A2BE2,50:00E5FF,100:FF007A&height=180&section=header&text=sanket%20singh&fontSize=48&fontColor=ffffff&f
+ontAlignY=35&desc=software%20engineer%20·%20ai%20agents%20·%20shipping%20things&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
+<a href="https://git.io/typing-svg"><img
+src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=building+
+ai+agents+that+ship+code;7%2B+yrs+·+fintech+·+e-commerce+·+devtools;llms%2C+evals+%26+agentic+workflows;turning+ideas+into+things+that+actually+run" alt="Typing SVG"
+/></a>
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sanketsingh27&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sanketsingh27&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanketsingh27&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- ══════════════ WHO I AM ══════════════ -->
+**software engineer · 7+ years · fintech → e-commerce → devtools → AI**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sanketsingh27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🤖 building autonomous coding agents & ai-powered devtools
+🧠 shipping a task-management product · 📱 occasional ios detours
+🧪 deep in llm workflows, evals & ai-assisted development
 
----
-[![](https://komarev.com/ghpvc/?username=sanketsingh27&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ══════════════ STACK ══════════════ -->
+### ⚡ tech I reach for
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Playwright](https://img.shields.io/badge/playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+<!-- ══════════════ PROJECTS ══════════════ -->
+### 🚀 things I'm building
+
+<!-- ⇨ REPLACE repo names below with your real ones (3–4 best repos) -->
+<a href="https://github.com/sanketsingh27/REPO1"><img align="top" height="150"
+src="https://github-readme-stats.vercel.app/api/pin/?username=sanketsingh27&repo=REPO1&theme=synthwave&hide_border=true" /></a>
+<a href="https://github.com/sanketsingh27/REPO2"><img align="top" height="150"
+src="https://github-readme-stats.vercel.app/api/pin/?username=sanketsingh27&repo=REPO2&theme=synthwave&hide_border=true" /></a>
+<a href="https://github.com/sanketsingh27/REPO3"><img align="top" height="150"
+src="https://github-readme-stats.vercel.app/api/pin/?username=sanketsingh27&repo=REPO3&theme=synthwave&hide_border=true" /></a>
+
+<!-- ══════════════ OPEN TO ══════════════ -->
+### 🔍 stumped by / collab-welcome
+
+`agents that reliably ship software` · `evals beyond "it seems to work"` · `side projects → real products`
+
+💬 **ask me about:** typescript · next.js · node · postgres · redis · ai agents · financial software · e-commerce
+🤝 **PRs welcome on my repos — don't be shy**
+
+<!-- ══════════════ STATS ══════════════ -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanketsingh27&theme=synthwave&hide_border=true&show_icons=true&include_all_commits=true"
+alt="stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sanketsingh27&theme=synthwave&hide_border=true" alt="streak"/>
+<br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketsingh27&theme=synthwave&hide_border=true&layout=compact" alt="langs"/>
+<img width="49%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=sanketsingh27&bg_color=0d1117&color=00E5FF&line=8A2BE2&point=FF007A&hide_border=true"
+alt="activity"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanketsingh27&theme=synthwave&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%"
+alt="trophies"/>
+
+<!-- ══════════════ SNAKE (needs the GitHub Action, step 2) ══════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanketsingh27/sanketsingh27/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sanketsingh27/sanketsingh27/output/github-snake.svg" width="100%" alt="snake"/>
+</picture>
+
+<!-- ══════════════ FOOTER ══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF007A,50:00E5FF,100:8A2BE2&height=80&section=footer" width="100%"/>
+
+[![visitors](https://komarev.com/ghpvc/?username=sanketsingh27&color=00E5FF&style=flat-square&label=visitors)](https://visitcount.itsvg.in)
+
+> building things, learning things, occasionally overengineering things.

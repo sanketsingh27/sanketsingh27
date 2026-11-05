@@ -101,11 +101,11 @@ HTML & CSS · Express · Fastify · React Query · Socket.IO · MySQL · Cassand
 <!-- COMMITS:START -->
 | Date | Repository | Commit |
 | :--- | :--- | :--- |
-| 2026-10-31 | [portfolio](https://github.com/sanketsingh27/portfolio) | [chore&#58; use cleaner free portfolio domain](https://github.com/sanketsingh27/portfolio/commit/e83234abbb1a22887e89ad1c63ea702fc211f9f0) |
-| 2026-10-30 | [portfolio](https://github.com/sanketsingh27/portfolio) | [chore&#58; configure production portfolio URL](https://github.com/sanketsingh27/portfolio/commit/50b015601013bb297f486b76ae59ab51e8bcc525) |
-| 2026-10-30 | [portfolio](https://github.com/sanketsingh27/portfolio) | [feat&#58; refine portfolio navigation capabilities and cursor](https://github.com/sanketsingh27/portfolio/commit/c8b7a31e7288b5c5bbb1c58773b7af72f75eefca) |
-| 2026-10-30 | [portfolio](https://github.com/sanketsingh27/portfolio) | [feat&#58; add reference&#45;inspired portfolio design two](https://github.com/sanketsingh27/portfolio/commit/3644fcc9c3ccc650b64e1098759c06129c435ef7) |
-| 2026-10-30 | [portfolio](https://github.com/sanketsingh27/portfolio) | [feat&#58; personalize portfolio and refine desktop navigation](https://github.com/sanketsingh27/portfolio/commit/229163039f6b7bcf27ab023cb6b5e887a41b98fe) |
+| 2026-11-05 | [interviewdaddy](https://github.com/sanketsingh27/interviewdaddy) | [Merge pull request &#35;9 from sanketsingh27&#47;improvement&#45;one](https://github.com/sanketsingh27/interviewdaddy/commit/35c067dab08a16d3f7d47f905660a1ddc94e2758) |
+| 2026-11-05 | [interviewdaddy](https://github.com/sanketsingh27/interviewdaddy) | [feat&#58; replace legacy frontend with Next&#46;js interview workspace](https://github.com/sanketsingh27/interviewdaddy/commit/0658e345c1b22b9715edde39e9024d94d3668f29) |
+| 2026-10-31 | [interviewdaddy](https://github.com/sanketsingh27/interviewdaddy) | [feat&#58; pause and recover interrupted interviews](https://github.com/sanketsingh27/interviewdaddy/commit/c6a1984519424d1b29e1d6056414502f8b6ee169) |
+| 2026-10-31 | [interviewdaddy](https://github.com/sanketsingh27/interviewdaddy) | [listening](https://github.com/sanketsingh27/interviewdaddy/commit/272a644b7b3b25b75098f46952006e8f2cc04709) |
+| 2026-10-31 | [interviewdaddy](https://github.com/sanketsingh27/interviewdaddy) | [feat&#58; conduct adaptive project interviews &#40;&#35;5&#41;](https://github.com/sanketsingh27/interviewdaddy/commit/23669553e7609821e3b492e952e067d3395b4cbb) |
 <!-- COMMITS:END -->
 
 ---
